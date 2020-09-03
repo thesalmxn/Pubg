@@ -1,2 +1,3 @@
 # Pubg
-Description of PUBG lol
+Description of PUBG Mobile
+
